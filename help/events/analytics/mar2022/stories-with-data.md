@@ -1,6 +1,6 @@
 ---
 title: Conte histórias atraentes com dados
-description: Associar-se [!DNL Adobe Analytics] Campeão Amy Ard quando explica como arte e ciência podem se unir para contar uma história poderosa e ajudar sua empresa a tomar decisões orientadas por dados.
+description: Ingressar [!DNL Adobe Analytics] A especialista Amy Ard explica como a arte e a ciência podem se unir para contar uma história poderosa e ajudar sua empresa a tomar decisões orientadas por dados.
 solution: Analytics
 role: User
 doc-type: Event
@@ -17,6 +17,6 @@ ht-degree: 11%
 
 # Conte histórias atraentes com dados
 
-Os dados são uma das ferramentas mais poderosas que uma organização pode confiar, mas somente se forem apresentados de uma forma que importa para os tomadores de decisão. Associar-se [!DNL Adobe Analytics] Campeão Amy Ard quando explica como arte e ciência podem se unir para contar uma história poderosa e ajudar sua empresa a tomar decisões orientadas por dados.
+Os dados são uma das ferramentas mais eficientes com as quais uma organização pode contar, mas somente se forem apresentados de uma maneira que seja importante para os tomadores de decisão. Ingressar [!DNL Adobe Analytics] A especialista Amy Ard explica como a arte e a ciência podem se unir para contar uma história poderosa e ajudar sua empresa a tomar decisões orientadas por dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342096/?quality=12&learn=on)
